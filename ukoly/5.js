@@ -49,7 +49,7 @@ if (vek >= 18) {
       vek +
       ' a tak musíte počkat ještě ' +
       kolikZbyva +
-      'let, než budete moci řídit auto.'
+      ' let, než budete moci řídit auto.'
   );
 }
 

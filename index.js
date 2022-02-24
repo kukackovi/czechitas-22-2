@@ -1,5 +1,5 @@
 //poznamka na 1 radek, kterou program nevidi
-import './ukoly/6.js';
+import './cykly/3.js';
 
 /* 
 delsi komentar na nekolik radku
